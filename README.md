@@ -1,0 +1,2 @@
+# lineerregresyon
+lineerregresyon
